@@ -1,0 +1,5 @@
+LangChain est une bibliothèque permettant de créer des applications basées sur LLM.
+
+LangGraph permet de construire des agents intelligents avec workflow.
+
+Agentic AI est une nouvelle génération d'intelligence artificielle autonome.
